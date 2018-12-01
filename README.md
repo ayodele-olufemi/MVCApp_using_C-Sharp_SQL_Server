@@ -1,7 +1,7 @@
 # MVCApp_using_C-_SQL_Server
-## Class assignment for IT583
+# Class assignment for IT583
 
-Instructions: To recreate this app, do the following: 
+## Instructions: To recreate this app, do the following: 
 -----------------------------------------------------
 
 * Create a database named **Employee** in Microsoft SQL server. 
@@ -23,10 +23,12 @@ Instructions: To recreate this app, do the following:
 		* Right-click your server-name (top object in the Object Explorer) and select `Properties`. 
 		* Select the Security tab and check the `SQL Server and Windows Authentication mode`, then select OK.
 		* Close SSMS. 
-		* From Windows menu, search and launch `Services`, then scroll and search for `SQL Server (MSSQLSERVER).
+		* From Windows menu, search and launch `Services`, then scroll and search for `SQL Server (MSSQLSERVER)`.
 		* Right-click and select **Restart** to restart the service. 
-		* Relauch your SSMS and try to login using the created user. It should work now. 
-	
+		* Relaunch your SSMS and try to log in using the created user. It should work now. 
+* Now we will create stored procedures for the CRUD actions. 
+	* Download and execute the file **EmployeeStoredProc.sql** file.
+	* Execute **grantUser** stored procedure.
 
 
 

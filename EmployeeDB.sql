@@ -6,7 +6,7 @@ CREATE TABLE [dbo].[Employee](
 	[LastName] [varchar](50) NOT NULL,
 	[FirstName] [varchar](50) NOT NULL,
 	[Gender] [char](1) NULL,
-	[MiddLeName] [varchar](50) NULL,
+	[MiddleName] [varchar](50) NULL,
 	[HiredDate] [date] NOT NULL,
  CONSTRAINT [PK_Employee] PRIMARY KEY CLUSTERED 
 (
@@ -16,8 +16,8 @@ CREATE TABLE [dbo].[Employee](
 GO
 SET IDENTITY_INSERT [dbo].[Employee] ON 
 
-INSERT [dbo].[Employee] ([EmployeeID], [LastName], [FirstName], [Gender], [MiddLeName], [HiredDate]) VALUES (1, N'Doe', N'John', N'M', N'D', CAST(N'2015-01-01' AS Date))
-INSERT [dbo].[Employee] ([EmployeeID], [LastName], [FirstName], [Gender], [MiddLeName], [HiredDate]) VALUES (3, N'Doe', N'Jannet', N'F', N'J', CAST(N'2015-01-01' AS Date))
+INSERT [dbo].[Employee] ([EmployeeID], [LastName], [FirstName], [Gender], [MiddleName], [HiredDate]) VALUES (1, N'Doe', N'John', N'M', N'D', CAST(N'2015-01-01' AS Date))
+INSERT [dbo].[Employee] ([EmployeeID], [LastName], [FirstName], [Gender], [MiddleName], [HiredDate]) VALUES (3, N'Doe', N'Jannet', N'F', N'J', CAST(N'2015-01-01' AS Date))
 SET IDENTITY_INSERT [dbo].[Employee] OFF
 
 GO
