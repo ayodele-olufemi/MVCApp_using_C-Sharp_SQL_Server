@@ -26,8 +26,8 @@ namespace IT583.OAE.Employee.ASP.NET.MVC.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=AY-XPS;Initial Catalog=Employee;Persist Security Info=True;User ID=Em" +
-            "ployeeUser;Password=employee123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.;Initial Catalog=Employee;Persist Security Info=True;User ID=Employe" +
+            "eUser;Password=employee123")]
         public string Setting {
             get {
                 return ((string)(this["Setting"]));

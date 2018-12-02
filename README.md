@@ -20,7 +20,7 @@
 	* Reconnect using SQL Server Authentication. Enter the `EmployeeUser` and `employee123` in the Login and Password fields respectively. Then connect.
 	* It should connect. If it doesn't, you may do the following to resolve the issue: 
 		* Connect using Windows Authentication.
-		* Right-click your server-name (top object in the Object Explorer) and select `Properties`. 
+		* Right-click your server-name (top object in the Object Explorer) and select **Properties**. 
 		* Select the Security tab and check the **SQL Server and Windows Authentication mode**, then select OK.
 		* Close SSMS. 
 		* From Windows menu, search and launch **Services**, then scroll and search for **SQL Server (MSSQLSERVER)**.
@@ -29,6 +29,7 @@
 * Now we will create stored procedures for the CRUD actions and grant **EmployeeUser** permission to execute the stored procedures. 
 	* Download and execute the file **EmployeeStoredProc.sql** file.
 	* Execute **grantUser** stored procedure.
+* We are done setting up the database. Next, we setup the project in Visual Studio.
 
 
 
