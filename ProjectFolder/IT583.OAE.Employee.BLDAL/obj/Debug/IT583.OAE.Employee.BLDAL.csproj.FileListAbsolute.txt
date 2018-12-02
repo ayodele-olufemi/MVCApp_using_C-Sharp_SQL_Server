@@ -1,0 +1,5 @@
+C:\Users\ayyor\MVCApp_using_C-_SQL_Server\ProjectFolder\IT583.OAE.Employee.BLDAL\bin\Debug\IT583.OAE.Employee.BLDAL.dll
+C:\Users\ayyor\MVCApp_using_C-_SQL_Server\ProjectFolder\IT583.OAE.Employee.BLDAL\bin\Debug\IT583.OAE.Employee.BLDAL.pdb
+C:\Users\ayyor\MVCApp_using_C-_SQL_Server\ProjectFolder\IT583.OAE.Employee.BLDAL\obj\Debug\IT583.OAE.Employee.BLDAL.csproj.CoreCompileInputs.cache
+C:\Users\ayyor\MVCApp_using_C-_SQL_Server\ProjectFolder\IT583.OAE.Employee.BLDAL\obj\Debug\IT583.OAE.Employee.BLDAL.dll
+C:\Users\ayyor\MVCApp_using_C-_SQL_Server\ProjectFolder\IT583.OAE.Employee.BLDAL\obj\Debug\IT583.OAE.Employee.BLDAL.pdb

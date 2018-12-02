@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT583.OAE.Employee.BLDAL", "IT583.OAE.Employee.BLDAL\IT583.OAE.Employee.BLDAL.csproj", "{B637648A-2C54-4661-B524-42E5B99919B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT583.OAE.Employee.ASP.NET.MVC", "IT583.OAE.Employee.ASP.NET.MVC\IT583.OAE.Employee.ASP.NET.MVC.csproj", "{21785B71-8922-4F0F-A3ED-B2EBD81F687C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B637648A-2C54-4661-B524-42E5B99919B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B637648A-2C54-4661-B524-42E5B99919B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B637648A-2C54-4661-B524-42E5B99919B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B637648A-2C54-4661-B524-42E5B99919B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21785B71-8922-4F0F-A3ED-B2EBD81F687C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21785B71-8922-4F0F-A3ED-B2EBD81F687C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21785B71-8922-4F0F-A3ED-B2EBD81F687C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21785B71-8922-4F0F-A3ED-B2EBD81F687C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {225C6B0C-D60D-46AD-BAC2-4776E63933BF}
+	EndGlobalSection
+EndGlobal
