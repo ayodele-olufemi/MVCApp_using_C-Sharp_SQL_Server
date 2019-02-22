@@ -1,4 +1,4 @@
-# MVCApp_using_C-_SQL_Server
+# MVCApp_using_C-Sharp_SQL_Server
 # Class assignment for IT583
 
 ## Instructions: To recreate this app, do the following: 
